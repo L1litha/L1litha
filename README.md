@@ -25,11 +25,16 @@
 
 • High Experience of 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗝𝗮𝘃𝗮, 𝗖++, 𝗛𝗧𝗠𝗟
 
-• Other Experience of 𝗣𝗛𝗣 and 𝗩𝗕
+• Other Experience of 𝗣𝗛𝗣, 𝗩𝗕, 𝗦𝗵𝗲𝗹𝗹 𝗮𝗻𝗱 𝗣𝗼𝘄𝗲𝗿𝘀𝗵𝗲𝗹𝗹
 
 • Understand Speak Language of 𝗞𝗼𝗿𝗲𝗮𝗻, 𝗝𝗮𝗽𝗮𝗻, 𝗜𝗻𝗱𝗼𝗻𝗲𝘀𝗶𝗮, 𝗥𝘂𝘀𝘀𝗶𝗮, 𝗘𝗻𝗴𝗹𝗶𝘀𝗵
 
+![alt text](https://camo.githubusercontent.com/62781e1bbb03ca8b5a636114b9f1174b138adb9cf3fe55fd81fa325357577f3b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d656c6c696f74746f7068656c6c6961266c61796f75743d70696526686964655f626f726465723d74727565266c616e67735f636f756e743d35267468656d653d7472616e73706172656e74267469746c655f636f6c6f723d35333942463526746578745f636f6c6f723d41444241433726746578745f626f6c643d74727565)
+
 ![alt text](https://cdn.discordapp.com/attachments/1057918934298394678/1247572998161039370/20240604_222925.jpg?ex=66608465&is=665f32e5&hm=556c9ed1b708f03e2bcee1e24b9ce1e8953de86be2d86d0adf29ba015bd81d86&)
+
+<h3 align="left">Languages:</h3>
+<p align="left">
 
 <h3 align="left">Files Work:</h3>
 <p align="left">
@@ -47,7 +52,6 @@
 ![alt text](https://cdn.discordapp.com/attachments/1057918934298394678/1247574479933014220/rainbow-line.gif?ex=666085c6&is=665f3446&hm=e3b8a7aae23ecd848c7afc6e85cbc185e08e6fcfeffca5036e9941bb2591074c&)
 
 ![alt text](https://camo.githubusercontent.com/f7a7f1d0364323f8822dd41464563ac09cb88bb27e4ed94d4fb85aa0c0cec5d8/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d656c6c696f74746f7068656c6c6961266e6f2d62673d74727565266e6f2d6672616d653d747275652672616e6b3d2d3f267468656d653d6461726b687562)
-
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
